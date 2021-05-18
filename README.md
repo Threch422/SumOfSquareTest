@@ -1,0 +1,2 @@
+# SumOfSquareTest
+first golang trial

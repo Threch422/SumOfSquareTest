@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-// HENNGE Challenge 2021
 // Calculating Sum of Square
 // no for statement in this code --> using Recursion as alternative method
 
